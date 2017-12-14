@@ -1,0 +1,11 @@
+Package: twbxUpdate
+Type: Package
+Title: Updates .twbx File With New Daate
+Version: 0.0.1
+Author: Sam Phinizy(sam@phin.tech)
+Maintainer: Sam Phinizy<sam@phin.tech>
+Description: 
+    This package allows someone to replace data files inside a Tableau .twbx file with new data.
+License: MIT
+LazyData: true
+RoxygenNote: 6.0.1.9000
